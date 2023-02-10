@@ -36,29 +36,11 @@ body {
     width: 80px;
   }
 
-  #one{
-
-  }
-
-  #two{
-
-  }
-
-  #three{
-
-  }
-
-  #four{
-
-  }
-  #five{
-
-  }
-  #six{
-
-  }
-  #seven{
-
+  h3 {
+    color:#AAE3E2;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    text-shadow: 3px 0 #D9ACF5;
   }
 
   .circle {
