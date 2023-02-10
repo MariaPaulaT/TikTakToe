@@ -60,11 +60,13 @@ body {
   #seven{
 
   }
-  #eight {
-    background: no-repeat center/70% url("img/cerca.png");
+
+  .circle {
+    background: no-repeat center/80% url("img/circulo.png");
     
   }
-  #nine{
+  
+  .cerca{
     background: no-repeat center/70% url("img/cerca.png");
   }
   
